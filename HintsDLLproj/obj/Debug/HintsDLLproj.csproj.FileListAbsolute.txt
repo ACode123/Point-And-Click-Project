@@ -1,0 +1,5 @@
+C:\Assignments\MSSA\Point-And-Click-Project\HintsDLLproj\bin\Debug\HintsDLLproj.dll
+C:\Assignments\MSSA\Point-And-Click-Project\HintsDLLproj\bin\Debug\HintsDLLproj.pdb
+C:\Assignments\MSSA\Point-And-Click-Project\HintsDLLproj\obj\Debug\HintsDLLproj.csproj.CoreCompileInputs.cache
+C:\Assignments\MSSA\Point-And-Click-Project\HintsDLLproj\obj\Debug\HintsDLLproj.dll
+C:\Assignments\MSSA\Point-And-Click-Project\HintsDLLproj\obj\Debug\HintsDLLproj.pdb

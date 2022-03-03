@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c2ff3c63-eecd-4999-8aa0-67df29b7d7d6": {
+      "ProjectGuid": "c2ff3c63-eecd-4999-8aa0-67df29b7d7d6",
+      "DisplayName": "GameProject",
+      "ColorIndex": 0
+    },
+    "04579955-003c-4c3f-ae8d-7c6afec26a0a": {
+      "ProjectGuid": "04579955-003c-4c3f-ae8d-7c6afec26a0a",
+      "DisplayName": "ComputerScreen",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2427e4c2-5642-493a-a5b3-479fa02a73b9": {
+      "ProjectGuid": "2427e4c2-5642-493a-a5b3-479fa02a73b9",
+      "DisplayName": "ComputerScreen",
+      "ColorIndex": 2
+    },
+    "8072e367-0b24-463d-ba18-b57fe0c08eea": {
+      "ProjectGuid": "8072e367-0b24-463d-ba18-b57fe0c08eea",
+      "DisplayName": "HintsDLLproj",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

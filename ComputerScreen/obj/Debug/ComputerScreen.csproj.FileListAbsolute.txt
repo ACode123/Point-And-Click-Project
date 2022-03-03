@@ -1,0 +1,10 @@
+C:\Assignments\MSSA\Point-And-Click-Project\ComputerScreen\bin\Debug\ComputerScreen.exe.config
+C:\Assignments\MSSA\Point-And-Click-Project\ComputerScreen\bin\Debug\ComputerScreen.exe
+C:\Assignments\MSSA\Point-And-Click-Project\ComputerScreen\bin\Debug\ComputerScreen.pdb
+C:\Assignments\MSSA\Point-And-Click-Project\ComputerScreen\obj\Debug\ComputerScreen.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\MSSA\Point-And-Click-Project\ComputerScreen\obj\Debug\ComputerScreen.csproj.CoreCompileInputs.cache
+C:\Assignments\MSSA\Point-And-Click-Project\ComputerScreen\obj\Debug\ComputerScreen.exe
+C:\Assignments\MSSA\Point-And-Click-Project\ComputerScreen\obj\Debug\ComputerScreen.pdb
+C:\Assignments\MSSA\Point-And-Click-Project\ComputerScreen\bin\Debug\HintsDLLproj.dll
+C:\Assignments\MSSA\Point-And-Click-Project\ComputerScreen\bin\Debug\HintsDLLproj.pdb
+C:\Assignments\MSSA\Point-And-Click-Project\ComputerScreen\obj\Debug\ComputerScreen.csproj.CopyComplete
