@@ -63,6 +63,7 @@
             this.Controls.Add(this.introTxt);
             this.Name = "Slide1";
             this.Text = "Slide1";
+            this.Load += new System.EventHandler(this.Slide1_Load);
             this.ResumeLayout(false);
 
         }

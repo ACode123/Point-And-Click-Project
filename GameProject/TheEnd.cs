@@ -23,7 +23,7 @@ namespace GameProject
 
         private void Contbtn_Click(object sender, EventArgs e)
         {
-            //plays music once the button is clicked 
+            
             theactualend end= new theactualend();
             this.Hide();
             end.Show();

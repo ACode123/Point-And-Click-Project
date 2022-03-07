@@ -24,5 +24,10 @@ namespace GameProject
             mainRoom.Show();
             
         }
+
+        private void Slide1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
